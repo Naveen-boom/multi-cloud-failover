@@ -32,7 +32,7 @@ To build a reliable system that minimizes downtime by using intelligent monitori
 - `/status` → Returns server health and active cloud
 
 ##  Project Status
-Day 1 completed – Basic Flask backend setup.
+Basic Flask backend setup.
 
 ##  Author
 Naveen HT
